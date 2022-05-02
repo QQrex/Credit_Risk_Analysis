@@ -23,7 +23,7 @@ Using the credit card credit dataset from LendingCLub, we will use:
 
 ### Random Oversample
 
-![over]()
+![over](https://github.com/QQrex/Credit_Risk_Analysis/blob/main/Images/Random%20Oversample.PNG)
 - Accuracy: 0.62
 - Precision: 0.99
 - Recall: 0.65
@@ -31,7 +31,7 @@ Using the credit card credit dataset from LendingCLub, we will use:
 
 ### SMOTE
 
-![smote]()
+![smote](https://github.com/QQrex/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Oversample.PNG)
 - Accuracy: 0.65
 - Precision: 0.99
 - Recall: 0.66
@@ -39,7 +39,7 @@ Using the credit card credit dataset from LendingCLub, we will use:
 
 ### Cluster Centroid Undersampling
 
-![under]()
+![under](https://github.com/QQrex/Credit_Risk_Analysis/blob/main/Images/Undersampling.PNG)
 - Accuracy: 0.51
 - Precision: 0.99
 - Recall: 0.44
@@ -47,23 +47,23 @@ Using the credit card credit dataset from LendingCLub, we will use:
 
 ### SMOTEEN
 
-![combine]()
+![combine](https://github.com/QQrex/Credit_Risk_Analysis/blob/main/Images/Combine%20SMOTEENN.PNG)
 - Accuracy: 0.63
 - Precision: 0.99
 - Recall: 0.57
-- F1: 0.75
+- F1: 0.72
 
 ### Balance Random Forrest Classifier
 
-![forrest]()
-- Accuracy: 0.78
+![forrest](https://github.com/QQrex/Credit_Risk_Analysis/blob/main/Images/Random%20Oversample.PNG)
+- Accuracy: 0.62
 - Precision: 0.99
-- Recall: 0.91
-- F1: 0.95
+- Recall: 0.65
+- F1: 0.78
 
 ### Easy Ensemble AdaBoost Classifier
 
-![ada]()
+![ada](https://github.com/QQrex/Credit_Risk_Analysis/blob/main/Images/Adaboost.PNG)
 - Accuracy: 0.92
 - Precision: 0.99
 - Recall: 0.94
